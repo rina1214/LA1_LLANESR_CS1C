@@ -1,0 +1,33 @@
+// 1. Create Variable name (firstFavNum) & store your favorite number. 
+let firstFavNum = 12;
+
+// 2. Create Variable name (secondFavNum) & store your second fav number. 
+let secondFavNum = 14;
+
+// 3. Add (firstFavNum & secondFavNumber). 
+sum = firstFavNum + secondFavNum;
+
+// 4. Subtract (firstFavNum & secondFavNumber). 
+sub = firstFavNum - secondFavNum;
+
+// 5. Multiply (firstFavNum & secondFavNumber). 
+mul = firstFavNum * secondFavNum;
+
+// 6. Divided (firstFavNum & secondFavNumber). 
+div = firstFavNum / secondFavNum;
+
+// 7. Check (firstFavNum Mod secondFavNumber). 
+mod = firstFavNum % secondFavNum;
+
+// 8. Check the power of (firstFavNum) raise to secondFavNun. 
+power = firstFavNum ** secondFavNum;
+
+// 9. Finally log all variables to the console using code runner in vscode. 
+console.log(sum);
+console.log(sub);
+console.log(mul);
+console.log(div);
+console.log(mod);
+console.log(power);
+
+// 10. Submit answers in your github repository and link it to your google classroom.
