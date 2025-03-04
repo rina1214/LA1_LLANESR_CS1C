@@ -1,0 +1,24 @@
+// 1. Create variable name (name) & store your name. 
+
+let name = 'Rina Gascon Llanes';
+
+// 2. Create variable name (whatDoYouWannaBecomeInYourLife) & store "programmer" 
+
+let whatDoYouWannaBecomeInYourLife = 'programmer';
+
+// 3. Create variable name (gender) & store your gender. 
+
+let gender = 'Female';
+
+// 4. Create variable name (facebookAcct) & store your Facebook Name. 
+
+let twitterHandle = '@Rina G. Llanes';
+
+// 5. Finally log all variables to the console using code runner in vscode. 
+
+console.log(name);
+console.log(whatDoYouWannaBecomeInYourLife);
+console.log(gender);
+console.log(twitterHandle);
+
+// 6. Submit answers in your github repository and link it to your google classroom.
