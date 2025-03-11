@@ -1,0 +1,43 @@
+// 1. Create variable name (firstFavNumb) & store your favorite number. 
+
+let firstFavNum = 12;
+
+// 2. Create variable name (secondFavNumb) & store second fav Number.
+
+let secondFavNumb = 14;
+
+// 3. Check (firstFavNumb is greater then secondFavNumb) 
+
+console.log(firstFavNum > secondFavNumb);
+
+
+// 4. Check (firstFavNumb is less then secondFavNumb) 
+
+console.log(firstFavNum < secondFavNumb);
+
+// 5. Check (firstFavNumb is greater then & equal to secondFavNumb) 
+
+console.log(firstFavNum >= secondFavNumb);
+
+// 6. Check (firstFavNumb is less then & equal to secondFavNumb) 
+
+console.log(firstFavNum <= secondFavNumb);
+
+// 7. Check (firstFavNumb is equal to secondFavNumb) using strict equality operator. 
+
+console.log(firstFavNum === secondFavNumb);
+
+// 8. Check (firstFavNumb is equal to secondFavNumb) using loose equality operator. 
+
+console.log(firstFavNum !== secondFavNumb);
+
+// 9. Check (firstFavNumb is not equal to secondFavNumb) using strict non-equality operator. 
+
+console.log(firstFavNum == secondFavNumb);
+
+// 10. Check is (firstFavNumb is not equal to secondFavNumb) using loose non-equality 
+console.log(firstFavNum != secondFavNumb);
+
+
+// 11. Finally log all variables to the console using code runner in vscode. 
+// 12. Submit answers in your github repository and link it to your google classroom.
